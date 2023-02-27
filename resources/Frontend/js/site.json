@@ -1,0 +1,14 @@
+{
+    "BASE_URL": "https://muoimuoi.jamstack.vn",
+    "SITE_NAME": "Muoimuoi",
+    "SITE_TITLE": "Muội Muội - Thiên đường mỹ phẩm cao cấp.",
+    "SITE_DESCRIPTION": "Muội Muội cung cấp sản phẩm chất lượng từ những thương hiệu uy tín, được tin dùng. Lấy niềm vui, sự hài lòng của khách hàng để làm động lực, chúng tôi không ngừng tìm kiếm các sản phẩm tốt nhất để mỗi khách hàng đều có thể trở nên tự tin và xinh đẹp hơn.",
+    "SITE_COVER": "/cover.jpg",
+    "SITE_LOGO": "/logo.png",
+
+    "SITE_HOTLINE": null,
+
+    "GOOGLE_ANALYTICS_ID": null,
+    "GOOGLE_TAG_MANAGER_ID": null,
+    "FACEBOOK_PIXEL_ID": null
+}
